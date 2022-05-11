@@ -1,4 +1,3 @@
-#Coded By Rashad
 import hashlib
 
 def checksum(file_name, hasher):
